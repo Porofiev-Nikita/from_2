@@ -1,0 +1,9 @@
+.container {
+  max-width: 600px;
+}
+form {
+  background-color: var(--main-color);
+}
+:root {
+  --main-color: #89b8ff;
+}
